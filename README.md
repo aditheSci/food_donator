@@ -1,16 +1,4 @@
-# food_distributor
+# food_donator
 
-A new Flutter project.
+It's my new flutter project through which I aim to remove the food disparities present in the society. The idea is that the left over food will be collected by agents by going door-to-door in a society and then will be distributed to the needy ones (who are identified beforehand). 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
